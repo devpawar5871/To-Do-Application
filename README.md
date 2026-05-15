@@ -9,14 +9,21 @@ This app allows users to add, update, edit, and delete daily tasks easily.
 
 ## 🏠 Home Screen
 
-<img width="1920" height="1080" alt="Screenshot 2026-05-15 161258" src="https://github.com/user-attachments/assets/a2e8337b-ae40-4a7d-87cb-cd2c0a4deff1" />
+<img width="1911" height="942" alt="Screenshot 2026-05-15 162418" src="https://github.com/user-attachments/assets/6b2927e2-db0a-4ebe-b2c7-342640c426d7" />
 
 
 ---
 
 ## ➕ Add Task Screen
 
-<img width="1920" height="1080" alt="Screenshot 2026-05-15 161143" src="https://github.com/user-attachments/assets/f445d116-399c-4702-8a52-d508f6087ab0" />
+<img width="1915" height="944" alt="Screenshot 2026-05-15 162446" src="https://github.com/user-attachments/assets/fe205626-12ce-479e-aebe-65fa1cac6f85" />
+
+
+---
+
+## ✏️ Edit Task Screen
+
+<img width="1919" height="949" alt="Screenshot 2026-05-15 162505" src="https://github.com/user-attachments/assets/275364b1-45d6-4669-95ba-a32ea56b814b" />
 
 
 ---
@@ -47,6 +54,14 @@ lib/
 │
 ├── main.dart
 
+screenshots/
+│
+├── home.png
+├── add_task.png
+└── edit_task.png
+```
+
+---
 
 ## ▶️ Getting Started
 
